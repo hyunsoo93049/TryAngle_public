@@ -1,0 +1,56 @@
+# ============================================================
+# TryAngle v3 - Configuration File
+# 크로스 플랫폼 호환을 위한 설정 파일
+# ============================================================
+
+# 경로 설정 (상대 경로 사용)
+paths:
+  # 프로젝트 루트 기준 상대 경로
+  data_dir: ../../../data
+  feature_models_dir: ../../../feature_models
+  features_dir: ../../../features
+  test_images_dir: ../../../data/test_images
+
+  # 기본 레퍼런스 이미지
+  default_reference: test1.jpeg
+
+# 카메라 설정
+camera:
+  default_index: 0
+  width: 1280
+  height: 720
+  analysis_interval: 1.0  # 분석 간격 (초)
+
+# 모델 설정
+models:
+  yolo_pose: yolo11s-pose.pt
+
+# 피드백 임계값
+thresholds:
+  depth_ratio: 0.15        # 거리 차이 15%
+  brightness_diff: 20      # 밝기 차이 20
+  saturation_diff: 0.1     # 채도 차이 0.1
+  tilt_diff: 2.0          # 기울기 차이 2도
+
+# UI 설정
+ui:
+  font_scale: 0.6
+  font_thickness: 2
+  line_height: 30
+
+  # 색상 (BGR)
+  colors:
+    background: [0, 0, 0]
+    text: [255, 255, 255]
+    priority_high: [0, 0, 255]    # 빨강
+    priority_mid: [0, 165, 255]   # 주황
+    priority_low: [0, 255, 255]   # 노랑
+    info: [255, 200, 100]         # 하늘색
+    success: [0, 255, 0]          # 초록
+
+# 분석 옵션
+analysis:
+  enable_pose: true
+  enable_exif: true
+  enable_quality: true
+  enable_lighting: true

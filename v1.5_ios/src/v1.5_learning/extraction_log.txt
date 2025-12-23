@@ -1,0 +1,31 @@
+C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+[GPU] Using NVIDIA GeForce RTX 4070 SUPER
+
+============================================================
+TryAngle v1.5 Optimized Feature Extraction
+============================================================
+
+============================================================
+Loading Models with GPU Optimization...
+============================================================
+Traceback (most recent call last):
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\extract_features_optimized.py", line 808, in <module>
+    main()
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\extract_features_optimized.py", line 804, in main
+    extractor.run()
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\extract_features_optimized.py", line 577, in run
+    self.load_models()
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\extract_features_optimized.py", line 368, in load_models
+    self.grounding_dino.load()
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\models\grounding_dino.py", line 62, in load
+    self.model = load_model(
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\groundingdino\util\inference.py", line 29, in load_model
+    args = SLConfig.fromfile(model_config_path)
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\groundingdino\util\slconfig.py", line 185, in fromfile
+    cfg_dict, cfg_text = SLConfig._file2dict(filename)
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\groundingdino\util\slconfig.py", line 79, in _file2dict
+    check_file_exist(filename)
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\groundingdino\util\slconfig.py", line 23, in check_file_exist
+    raise FileNotFoundError(msg_tmpl.format(filename))
+FileNotFoundError: file "C:\try_angle\v1.5_ios\src\v1.5_learning\groundingdino\config\GroundingDINO_SwinB_cfg.py" does not exist

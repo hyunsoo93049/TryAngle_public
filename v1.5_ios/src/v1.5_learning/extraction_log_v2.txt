@@ -1,0 +1,55 @@
+C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\HS\.cache\huggingface\hub\models--IDEA-Research--grounding-dino-base. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\HS\.cache\huggingface\hub\models--depth-anything--Depth-Anything-V2-Large-hf. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[GPU] Using NVIDIA GeForce RTX 4070 SUPER
+
+============================================================
+TryAngle v1.5 Optimized Feature Extraction
+============================================================
+
+============================================================
+Loading Models with GPU Optimization...
+============================================================
+[GroundingDINO] Loaded HuggingFace model on cuda
+[DepthAnything] Loaded HuggingFace model on cuda
+Traceback (most recent call last):
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\extract_features_optimized.py", line 808, in <module>
+    main()
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\extract_features_optimized.py", line 804, in main
+    extractor.run()
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\extract_features_optimized.py", line 577, in run
+    self.load_models()
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\extract_features_optimized.py", line 388, in load_models
+    self.rtmpose.load()
+  File "C:\try_angle\v1.5_ios\src\v1.5_learning\models\rtmpose.py", line 140, in load
+    from mmpose.apis import init_model as init_pose_model
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\apis\__init__.py", line 2, in <module>
+    from .inference import (collect_multi_frames, inference_bottomup,
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\apis\inference.py", line 16, in <module>
+    from mmpose.datasets.datasets.utils import parse_pose_metainfo
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\datasets\__init__.py", line 3, in <module>
+    from .dataset_wrappers import CombinedDataset
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\datasets\dataset_wrappers.py", line 11, in <module>
+    from .datasets.utils import parse_pose_metainfo
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\datasets\datasets\__init__.py", line 2, in <module>
+    from .animal import *  # noqa: F401, F403
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\datasets\datasets\animal\__init__.py", line 2, in <module>
+    from .animalkingdom_dataset import AnimalKingdomDataset
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\datasets\datasets\animal\animalkingdom_dataset.py", line 3, in <module>
+    from ..base import BaseCocoStyleDataset
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\datasets\datasets\base\__init__.py", line 2, in <module>
+    from .base_coco_style_dataset import BaseCocoStyleDataset
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\mmpose\datasets\datasets\base\base_coco_style_dataset.py", line 13, in <module>
+    from xtcocotools.coco import COCO
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\xtcocotools\coco.py", line 58, in <module>
+    from . import mask as maskUtils
+  File "C:\Users\HS\anaconda3\envs\tryangle_v15\lib\site-packages\xtcocotools\mask.py", line 3, in <module>
+    import xtcocotools._mask as _mask
+  File "xtcocotools\\_mask.pyx", line 1, in init xtcocotools._mask
+ValueError: numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject

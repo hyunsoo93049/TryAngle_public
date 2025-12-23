@@ -1,0 +1,155 @@
+# ============================================================
+# TryAngle v1.5 MVP Learning Configuration
+# ============================================================
+
+# ---- Paths (Windows) ----
+paths:
+  # 분류된 이미지 폴더 (v1.5 classified_full_v4)
+  input_dir: "C:/try_angle/v1.5_ios/data/classified_full_v4"
+
+  # 결과 출력 폴더
+  output_dir: "C:/try_angle/v1.5_ios/output/v1.5_mvp"
+
+  # 패턴 JSON 저장 위치
+  pattern_json: "C:/try_angle/v1.5_ios/output/v1.5_mvp/patterns_full_v1.json"
+
+# ---- Theme Settings ----
+themes:
+  - name: "cafe_indoor"
+    folder: "cafe_indoor"
+    target_samples: 500
+
+  - name: "park_nature"
+    folder: "park_nature"
+    target_samples: 500
+
+  - name: "street_urban"
+    folder: "street_urban"
+    target_samples: 500
+
+  - name: "indoor_home"
+    folder: "indoor_home"
+    target_samples: 500
+
+  - name: "winter"
+    folder: "winter"
+    target_samples: 300
+
+# ---- Shot Type Settings (v1.5) ----
+shot_types:
+  - closeup      # 클로즈업 (얼굴~어깨)
+  - medium_shot  # 미디엄샷 (상반신~허리)
+  - knee_shot    # 니샷 (무릎까지)
+  - full_shot    # 풀샷 (전신)
+
+# ---- Model Settings ----
+models:
+  grounding_dino:
+    model_id: "IDEA-Research/grounding-dino-base"
+    box_threshold: 0.35
+    text_threshold: 0.25
+    device: "cuda"
+
+  depth_anything:
+    model_id: "depth-anything/Depth-Anything-V2-Large-hf"
+    device: "cuda"
+
+  rtmpose:
+    config: "rtmpose-l_8xb256-420e_body8-256x192"
+    checkpoint: "rtmpose-l_simcc-body7_pt-body7_420e-256x192.pth"
+    device: "cuda"
+
+# ---- Feature Extraction Settings ----
+extraction:
+  # 이미지 리사이즈 (처리 속도용)
+  resize_max: 1024
+
+  # Grounding DINO 프롬프트
+  person_prompt: "person"
+  background_prompts:
+    cafe_indoor: ["window", "table", "chair", "plant", "coffee", "cup", "light"]
+    park_nature: ["tree", "grass", "bench", "sky", "path", "flower", "leaf"]
+    street_urban: ["building", "window", "sign", "car", "street", "wall", "door"]
+    indoor_home: ["window", "furniture", "wall", "light", "plant", "decoration"]
+    winter: ["snow", "tree", "building", "coat", "scarf", "sky", "street"]
+
+# ---- Pose Classification Thresholds ----
+pose_classification:
+  # Keypoint confidence threshold
+  confidence_threshold: 0.3
+
+  # Pose type 판정 기준
+  closeup:
+    max_visible_keypoints: 5    # 얼굴 + 어깨만
+    face_ratio_min: 0.15        # 얼굴이 bbox의 15% 이상
+
+  upper_body:
+    hip_visible: false          # 골반 안 보임
+    shoulder_visible: true
+
+  half_body:
+    hip_visible: true           # 골반 보임
+    knee_visible: true          # 무릎 보임
+    ankle_visible: false        # 발목 안 보임
+
+  full_body:
+    ankle_visible: true         # 발목까지 보임
+
+# ---- Angle Estimation Settings ----
+angle_estimation:
+  # 방법: keypoint_ratio (RTMPose 키포인트 비율로 추정)
+  method: "keypoint_ratio"
+
+  # Fallback 순서
+  fallback_order:
+    - face_landmarks      # 1순위: 얼굴 랜드마크
+    - body_keypoints      # 2순위: 상체 키포인트
+    - bbox_ratio          # 3순위: Bbox 비율
+    - skip                # 4순위: 앵글 판정 스킵
+
+# ---- Composition Analysis Settings ----
+composition:
+  # Rule of Thirds 점수 계산
+  rule_of_thirds:
+    weight: 0.2
+
+  # 여백 분석
+  margins:
+    weight: 0.2
+
+  # 크기 분석
+  size:
+    weight: 0.15
+
+  # 압축감 분석
+  compression:
+    weight: 0.25
+
+  # 앵글 분석
+  angle:
+    weight: 0.10
+
+  # 포즈 매칭
+  pose:
+    weight: 0.10
+
+# ---- Statistics Settings ----
+statistics:
+  # 최소 샘플 수 (이하면 패턴 생성 안 함)
+  min_samples: 20
+
+  # Outlier 제거 (IQR)
+  remove_outliers: true
+  iqr_multiplier: 1.5
+
+# ---- Processing Settings ----
+processing:
+  batch_size: 4
+  num_workers: 4
+  save_intermediate: true    # 중간 결과 저장
+  verbose: true
+
+# ============================================================
+# Usage:
+#   python extract_features_mvp.py --config config.yaml
+# ============================================================

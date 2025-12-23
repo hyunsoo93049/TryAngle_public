@@ -1,0 +1,117 @@
+{
+  "cluster_id": 2,
+  "size": 134,
+  "timestamp": "2025-11-13T14:59:35.974420",
+  "model_analyses": {
+    "clip": {
+      "model": "CLIP (ViT-B/32)",
+      "purpose": "전체적 감성/분위기 인식",
+      "dimensions": 512,
+      "cluster_cohesion": 43.09218097117358,
+      "top_activated_dims": [
+        92,
+        389,
+        166,
+        367,
+        39
+      ],
+      "top_values": [
+        -0.5843943357467651,
+        0.18308314681053162,
+        0.13706378638744354,
+        -0.12096245586872101,
+        0.11220508068799973
+      ],
+      "interpretation": "단순하고 명확한 구성"
+    },
+    "openclip": {
+      "model": "OpenCLIP (ViT-B/32, LAION-2B)",
+      "purpose": "의미적 개념 이해",
+      "dimensions": 512,
+      "cluster_cohesion": 36.61791943420263,
+      "top_activated_dims": [
+        152,
+        307,
+        348,
+        1,
+        178
+      ],
+      "top_values": [
+        0.2706854521338619,
+        -0.27028826813199625,
+        -0.17027840685488574,
+        0.16875970185692632,
+        0.15124696760035272
+      ],
+      "interpretation": "일반적이고 보편적인 특징"
+    },
+    "dino": {
+      "model": "DINOv2 (ViT-S/14)",
+      "purpose": "구조적 패턴/구도 인식",
+      "dimensions": 384,
+      "spatial_consistency": 2223.507777757336,
+      "cluster_cohesion": 2223.507777757336,
+      "top_activated_dims": [
+        278,
+        179,
+        326,
+        25,
+        68
+      ],
+      "top_values": [
+        -0.0017860825173556805,
+        0.0015693102031946182,
+        -0.0014578575501218438,
+        0.0012947089271619916,
+        0.0012223107041791081
+      ],
+      "interpretation": "매우 일관된 구도/레이아웃 (유사한 프레이밍)"
+    },
+    "midas": {
+      "model": "MiDaS (DPT-Hybrid)",
+      "purpose": "깊이/공간 구조 인식",
+      "avg_depth": 993.1641904916336,
+      "depth_variance": 189.9255911187637,
+      "avg_complexity": 993.7091642920651,
+      "depth_class": "경계 공간",
+      "space_type": "실내외 경계 (카페 창가, 복도 등)",
+      "background_complexity": "높음 (복잡한 배경)",
+      "depth_consistency": 0.005265219862390547,
+      "interpretation": "실내외 경계 (카페 창가, 복도 등), 높음 (복잡한 배경) 배경 복잡도"
+    }
+  },
+  "visual_analyses": {
+    "color": {
+      "tone": "중간톤",
+      "brightness": "보통",
+      "saturation": "보통",
+      "contrast": "높음",
+      "edge_density": "복잡",
+      "avg_hue": 62.65322040731144,
+      "avg_sat": 72.1039427521394,
+      "avg_val": 133.09773179912725,
+      "avg_temp": 0.011101080944761386,
+      "avg_contrast": 62.75137700349686,
+      "avg_edge_density": 30.866996113919704
+    },
+    "pose": {
+      "pose_type": "반신",
+      "position_vertical": "하단",
+      "position_horizontal": "중앙",
+      "avg_vertical_pos": 0.6724748905436763,
+      "avg_horizontal_pos": 0.5154997313872547,
+      "distribution": {
+        "전신": 4,
+        "반신": 21,
+        "클로즈업": 5
+      }
+    }
+  },
+  "representative_images": [
+    "IMG_0555.JPG",
+    "IMG_0556.JPG",
+    "IMG_0557.JPG",
+    "IMG_0597.JPG",
+    "IMG_0598.JPG"
+  ]
+}

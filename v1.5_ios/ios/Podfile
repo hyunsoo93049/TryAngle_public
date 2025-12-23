@@ -1,0 +1,22 @@
+# Podfile for TryAngle iOS App
+platform :ios, '15.1'
+
+project 'TryAngleApp/TryAngleApp.xcodeproj'
+
+target 'TryAngleApp' do
+  use_frameworks!
+
+  # ONNX Runtime Full version for RTMPose (모든 연산자 지원)
+  # Mobile 버전이 아닌 전체 버전 사용 - 최신 버전
+  pod 'onnxruntime-objc', '~> 1.23.0'
+end
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.1'
+      # ONNX Runtime 헤더 경고 무시
+      config.build_settings['CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER'] = 'NO'
+    end
+  end
+end

@@ -1,0 +1,122 @@
+{
+    "0": {
+        "cluster_id": 0,
+        "depth_mean": 1079.7359504699707,
+        "depth_label": "실외 / 멀리",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.5906557813455613,
+        "tone": "쿨톤",
+        "brightness": "어두움",
+        "saturation": "채도낮음",
+        "auto_label": "실외 / 멀리, 쿨톤, 어두움, 반신",
+        "sample_count": 288
+    },
+    "1": {
+        "cluster_id": 1,
+        "depth_mean": 1033.7986964706547,
+        "depth_label": "실외 / 멀리",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.5957230850999038,
+        "tone": "쿨톤",
+        "brightness": "어두움",
+        "saturation": "채도높음",
+        "auto_label": "실외 / 멀리, 쿨톤, 어두움, 반신",
+        "sample_count": 242
+    },
+    "2": {
+        "cluster_id": 2,
+        "depth_mean": 993.1641904916336,
+        "depth_label": "실외 / 중간",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.4468664882767574,
+        "tone": "쿨톤",
+        "brightness": "밝음",
+        "saturation": "채도낮음",
+        "auto_label": "실외 / 중간, 쿨톤, 밝음, 반신",
+        "sample_count": 134
+    },
+    "3": {
+        "cluster_id": 3,
+        "depth_mean": 1068.4709922866066,
+        "depth_label": "실외 / 멀리",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.6290689666552506,
+        "tone": "쿨톤",
+        "brightness": "어두움",
+        "saturation": "채도높음",
+        "auto_label": "실외 / 멀리, 쿨톤, 어두움, 반신",
+        "sample_count": 202
+    },
+    "4": {
+        "cluster_id": 4,
+        "depth_mean": 1013.9271480372695,
+        "depth_label": "실외 / 멀리",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.5755609326548634,
+        "tone": "쿨톤",
+        "brightness": "밝음",
+        "saturation": "채도낮음",
+        "auto_label": "실외 / 멀리, 쿨톤, 밝음, 반신",
+        "sample_count": 122
+    },
+    "5": {
+        "cluster_id": 5,
+        "depth_mean": 1050.565561776984,
+        "depth_label": "실외 / 멀리",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.5759269293842032,
+        "tone": "쿨톤",
+        "brightness": "밝음",
+        "saturation": "채도높음",
+        "auto_label": "실외 / 멀리, 쿨톤, 밝음, 반신",
+        "sample_count": 597
+    },
+    "6": {
+        "cluster_id": 6,
+        "depth_mean": 1047.8382467013687,
+        "depth_label": "실외 / 멀리",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.6527043945322103,
+        "tone": "쿨톤",
+        "brightness": "어두움",
+        "saturation": "채도낮음",
+        "auto_label": "실외 / 멀리, 쿨톤, 어두움, 반신",
+        "sample_count": 268
+    },
+    "7": {
+        "cluster_id": 7,
+        "depth_mean": 1033.157981299892,
+        "depth_label": "실외 / 멀리",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.5773818160993535,
+        "tone": "쿨톤",
+        "brightness": "어두움",
+        "saturation": "채도낮음",
+        "auto_label": "실외 / 멀리, 쿨톤, 어두움, 반신",
+        "sample_count": 413
+    },
+    "8": {
+        "cluster_id": 8,
+        "depth_mean": 918.2572996670142,
+        "depth_label": "실외 / 중간",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.5359305440463153,
+        "tone": "쿨톤",
+        "brightness": "밝음",
+        "saturation": "채도낮음",
+        "auto_label": "실외 / 중간, 쿨톤, 밝음, 반신",
+        "sample_count": 266
+    },
+    "9": {
+        "cluster_id": 9,
+        "depth_mean": 1076.0386840820313,
+        "depth_label": "실외 / 멀리",
+        "dominant_pose": "반신",
+        "person_ratio_mean": 0.6108989714425138,
+        "tone": "쿨톤",
+        "brightness": "어두움",
+        "saturation": "채도낮음",
+        "auto_label": "실외 / 멀리, 쿨톤, 어두움, 반신",
+        "sample_count": 155
+    }
+}

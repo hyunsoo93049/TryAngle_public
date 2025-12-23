@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# iOS
+*.xcuserstate
+*.xcworkspace/
+xcuserdata/
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Node
+node_modules/
+
+# Temporary
+*.tmp
+*.log
+nul
+
+# Models (not included in public repo)
+*.pt
+*.pth
+*.onnx
+*.ort
+*.mlmodel
+*.tar.gz
+*.zip
+
+# iOS Pods (too large)
+**/Pods/
+**/onnxruntime.xcframework/
+
+# Test results
+*_result*

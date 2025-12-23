@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 0,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978951494.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624052476.jpg",
+    "label": 1
+  },
+  {
+    "id": 1,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956451.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978948000.jpg",
+    "label": 0
+  },
+  {
+    "id": 2,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978958320.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558139_5484751302363376251.jpg",
+    "label": 0
+  },
+  {
+    "id": 3,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978954115.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978958514.jpg",
+    "label": 0
+  },
+  {
+    "id": 4,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956126.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978953845.jpg",
+    "label": 0
+  },
+  {
+    "id": 5,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_873065077777539192.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978971798.jpg",
+    "label": 1
+  },
+  {
+    "id": 6,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979039711.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\IMG_0649.JPG",
+    "label": 0
+  },
+  {
+    "id": 7,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558810.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095979039782.jpg",
+    "label": 1
+  },
+  {
+    "id": 8,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_633529872624052846.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978957944.jpg",
+    "label": 1
+  },
+  {
+    "id": 9,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956591.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956445.jpg",
+    "label": 0
+  },
+  {
+    "id": 10,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978951310.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978961634.jpg",
+    "label": 1
+  },
+  {
+    "id": 11,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978964706.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978958129.jpg",
+    "label": 0
+  },
+  {
+    "id": 12,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978945245.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978962938.jpg",
+    "label": 0
+  },
+  {
+    "id": 13,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978958313.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_873065077777558152.jpg",
+    "label": 0
+  },
+  {
+    "id": 14,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978951298.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978957951.jpg",
+    "label": 0
+  },
+  {
+    "id": 15,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979038192.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978945567.jpg",
+    "label": 1
+  },
+  {
+    "id": 16,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956295.png",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978966103.jpg",
+    "label": 0
+  },
+  {
+    "id": 17,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957420.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951487.jpg",
+    "label": 0
+  },
+  {
+    "id": 18,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978965928.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979039569.jpg",
+    "label": 1
+  },
+  {
+    "id": 19,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978954218.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956669.jpg",
+    "label": 0
+  },
+  {
+    "id": 20,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951422.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957540.jpg",
+    "label": 0
+  },
+  {
+    "id": 21,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978954173.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978948777.jpg",
+    "label": 1
+  },
+  {
+    "id": 22,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095979039575.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978963114.jpg",
+    "label": 1
+  },
+  {
+    "id": 23,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978965087.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978961758.jpg",
+    "label": 0
+  },
+  {
+    "id": 24,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978945598.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978951421.jpg",
+    "label": 0
+  },
+  {
+    "id": 25,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978948226.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956867.jpg",
+    "label": 0
+  },
+  {
+    "id": 26,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979038120.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_873065077777558196.jpg",
+    "label": 0
+  },
+  {
+    "id": 27,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951382.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978954517.jpg",
+    "label": 0
+  },
+  {
+    "id": 28,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978958052.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979037496.jpg",
+    "label": 0
+  },
+  {
+    "id": 29,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978957386.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539754.jpg",
+    "label": 0
+  },
+  {
+    "id": 30,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978953942.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956466.jpg",
+    "label": 0
+  },
+  {
+    "id": 31,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978962954.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978956433.jpg",
+    "label": 1
+  },
+  {
+    "id": 32,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978957007.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978963074.jpg",
+    "label": 0
+  },
+  {
+    "id": 33,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777499652.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095979039537.jpg",
+    "label": 0
+  },
+  {
+    "id": 34,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978951529.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978946168.jpg",
+    "label": 1
+  },
+  {
+    "id": 35,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956710.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978946224.png",
+    "label": 1
+  },
+  {
+    "id": 36,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624068864.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956061.jpg",
+    "label": 1
+  },
+  {
+    "id": 37,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978962883.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956861.jpg",
+    "label": 1
+  },
+  {
+    "id": 38,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_873065077777499503.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_873065077777499491.jpg",
+    "label": 1
+  },
+  {
+    "id": 39,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777558813.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978957944.jpg",
+    "label": 0
+  },
+  {
+    "id": 40,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036941.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978951351.jpg",
+    "label": 0
+  },
+  {
+    "id": 41,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978965689.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\IMG_0564.JPG",
+    "label": 0
+  },
+  {
+    "id": 42,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956855.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978945241.jpg",
+    "label": 1
+  },
+  {
+    "id": 43,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095979037621.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\IMG_0673.JPG",
+    "label": 1
+  },
+  {
+    "id": 44,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978955894.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957623.jpg",
+    "label": 1
+  },
+  {
+    "id": 45,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0652.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956499.jpg",
+    "label": 1
+  },
+  {
+    "id": 46,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957109.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978962583.jpg",
+    "label": 0
+  },
+  {
+    "id": 47,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978962776.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978954178.jpg",
+    "label": 1
+  },
+  {
+    "id": 48,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978961758.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979034203.jpg",
+    "label": 1
+  },
+  {
+    "id": 49,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956831.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978962504.jpg",
+    "label": 0
+  },
+  {
+    "id": 50,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978954108.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037042.jpg",
+    "label": 0
+  },
+  {
+    "id": 51,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979041157.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263329.jpg",
+    "label": 1
+  },
+  {
+    "id": 52,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951490.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978947465.jpg",
+    "label": 1
+  },
+  {
+    "id": 53,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036896.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978973634.jpg",
+    "label": 1
+  },
+  {
+    "id": 54,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\IMG_0633.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558770.jpg",
+    "label": 1
+  },
+  {
+    "id": 55,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978946235.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1095008096913263224.jpg",
+    "label": 0
+  },
+  {
+    "id": 56,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\IMG_0676.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978945505.jpg",
+    "label": 1
+  },
+  {
+    "id": 57,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978957882.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978947771.jpg",
+    "label": 1
+  },
+  {
+    "id": 58,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_873065077777539147.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978950023.jpg",
+    "label": 1
+  },
+  {
+    "id": 59,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978962817.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777499584.jpg",
+    "label": 0
+  },
+  {
+    "id": 60,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_873065077777558063.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_633529872624053959.jpg",
+    "label": 0
+  },
+  {
+    "id": 61,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979037531.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978951448.jpg",
+    "label": 1
+  },
+  {
+    "id": 62,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956201.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978951478.jpg",
+    "label": 1
+  },
+  {
+    "id": 63,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978954103.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978951413.jpg",
+    "label": 1
+  },
+  {
+    "id": 64,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0545.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978945600.jpg",
+    "label": 0
+  },
+  {
+    "id": 65,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978950629.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0553.JPG",
+    "label": 0
+  },
+  {
+    "id": 66,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624068893.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_633529872624083458.jpg",
+    "label": 0
+  },
+  {
+    "id": 67,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956656.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978954137.jpg",
+    "label": 0
+  },
+  {
+    "id": 68,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957185.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_633529872624084315.jpg",
+    "label": 0
+  },
+  {
+    "id": 69,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956815.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979037519.jpg",
+    "label": 0
+  },
+  {
+    "id": 70,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978947982.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956552.png",
+    "label": 1
+  },
+  {
+    "id": 71,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978972718.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957575.jpg",
+    "label": 0
+  },
+  {
+    "id": 72,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978958173.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777500453.jpg",
+    "label": 1
+  },
+  {
+    "id": 73,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978963352.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777500553.jpg",
+    "label": 1
+  },
+  {
+    "id": 74,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978954024.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956499.jpg",
+    "label": 0
+  },
+  {
+    "id": 75,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_873065077777499439.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979041177.jpg",
+    "label": 0
+  },
+  {
+    "id": 76,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979037567.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978950852.jpg",
+    "label": 1
+  },
+  {
+    "id": 77,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951452.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777500434.jpg",
+    "label": 1
+  },
+  {
+    "id": 78,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957379.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978962529.jpg",
+    "label": 0
+  },
+  {
+    "id": 79,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978972649.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956519.jpg",
+    "label": 0
+  },
+  {
+    "id": 80,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978962532.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978957072.jpg",
+    "label": 1
+  },
+  {
+    "id": 81,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978950723.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978954207.jpg",
+    "label": 1
+  },
+  {
+    "id": 82,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956840.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_873065077777499493.jpg",
+    "label": 1
+  },
+  {
+    "id": 83,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978950091.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624053284.jpg",
+    "label": 1
+  },
+  {
+    "id": 84,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037617.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624053945.jpg",
+    "label": 0
+  },
+  {
+    "id": 85,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978953847.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624071001.jpg",
+    "label": 1
+  },
+  {
+    "id": 86,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956600.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951473.jpg",
+    "label": 0
+  },
+  {
+    "id": 87,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\IMG_0563.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957596.jpg",
+    "label": 1
+  },
+  {
+    "id": 88,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978964086.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957323.jpg",
+    "label": 0
+  },
+  {
+    "id": 89,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\IMG_0630.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\IMG_0555.JPG",
+    "label": 1
+  },
+  {
+    "id": 90,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095979039606.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978964026.jpg",
+    "label": 0
+  },
+  {
+    "id": 91,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978953847.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979036482.jpg",
+    "label": 1
+  },
+  {
+    "id": 92,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951484.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978951468.jpg",
+    "label": 0
+  },
+  {
+    "id": 93,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978965779.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957517.jpg",
+    "label": 0
+  },
+  {
+    "id": 94,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_633529872624056106.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978945232.jpg",
+    "label": 1
+  },
+  {
+    "id": 95,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978973702.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978972879.jpg",
+    "label": 0
+  },
+  {
+    "id": 96,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978965775.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539619.jpg",
+    "label": 1
+  },
+  {
+    "id": 97,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_873065077777499737.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978963069.jpg",
+    "label": 1
+  },
+  {
+    "id": 98,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965679.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956098.jpg",
+    "label": 1
+  },
+  {
+    "id": 99,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978963369.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_873065077777558824.jpg",
+    "label": 0
+  },
+  {
+    "id": 100,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978963211.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978964243.jpg",
+    "label": 1
+  },
+  {
+    "id": 101,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957629.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978958124.jpg",
+    "label": 1
+  },
+  {
+    "id": 102,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978961696.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951406.jpg",
+    "label": 0
+  },
+  {
+    "id": 103,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956516.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978946171.jpg",
+    "label": 0
+  },
+  {
+    "id": 104,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956205.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956286.jpg",
+    "label": 1
+  },
+  {
+    "id": 105,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957835_5717953320564775947.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951485.jpg",
+    "label": 0
+  },
+  {
+    "id": 106,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978958102.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624053975.jpg",
+    "label": 1
+  },
+  {
+    "id": 107,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957807.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095979036381.jpg",
+    "label": 0
+  },
+  {
+    "id": 108,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777499619.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558139_5484751302363376251.jpg",
+    "label": 1
+  },
+  {
+    "id": 109,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978950087.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978950094.jpg",
+    "label": 1
+  },
+  {
+    "id": 110,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978945499.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978945687.jpg",
+    "label": 1
+  },
+  {
+    "id": 111,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095979036449.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624083495.jpg",
+    "label": 0
+  },
+  {
+    "id": 112,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956185.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624082411.jpg",
+    "label": 0
+  },
+  {
+    "id": 113,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978965098.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_873065077777500422.jpg",
+    "label": 0
+  },
+  {
+    "id": 114,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624082425.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_873065077777558094.jpg",
+    "label": 1
+  },
+  {
+    "id": 115,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979039569.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978951396.jpg",
+    "label": 0
+  },
+  {
+    "id": 116,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036898.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956153.jpg",
+    "label": 0
+  },
+  {
+    "id": 117,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539694.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_633529872624009061.jpg",
+    "label": 1
+  },
+  {
+    "id": 118,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957433.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979039863.jpg",
+    "label": 1
+  },
+  {
+    "id": 119,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956936.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945585.jpg",
+    "label": 0
+  },
+  {
+    "id": 120,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978945671.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_873065077777499560.jpg",
+    "label": 1
+  },
+  {
+    "id": 121,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956201.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978955888.jpg",
+    "label": 1
+  },
+  {
+    "id": 122,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978954608.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978947954.jpg",
+    "label": 1
+  },
+  {
+    "id": 123,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979039804.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978954416.jpg",
+    "label": 0
+  },
+  {
+    "id": 124,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957835_5717953183125822475.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978963121.jpg",
+    "label": 1
+  },
+  {
+    "id": 125,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978947463.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978947465.jpg",
+    "label": 1
+  },
+  {
+    "id": 126,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956567.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956330.jpg",
+    "label": 0
+  },
+  {
+    "id": 127,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956523.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945290.jpg",
+    "label": 1
+  },
+  {
+    "id": 128,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978958263.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945569.jpg",
+    "label": 1
+  },
+  {
+    "id": 129,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978962504.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978956376.jpg",
+    "label": 0
+  },
+  {
+    "id": 130,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978957061.png",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624083495.jpg",
+    "label": 0
+  },
+  {
+    "id": 131,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624053272.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978964259.jpg",
+    "label": 1
+  },
+  {
+    "id": 132,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978954344.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978964299.jpg",
+    "label": 0
+  },
+  {
+    "id": 133,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_873065077777499829.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957168.jpg",
+    "label": 0
+  },
+  {
+    "id": 134,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978945114.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956867.jpg",
+    "label": 1
+  },
+  {
+    "id": 135,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978945649.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978962581.jpg",
+    "label": 1
+  },
+  {
+    "id": 136,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558811.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978954567.jpg",
+    "label": 1
+  },
+  {
+    "id": 137,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978963880.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777499429.jpg",
+    "label": 0
+  },
+  {
+    "id": 138,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979036480.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956201.jpg",
+    "label": 0
+  },
+  {
+    "id": 139,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956164.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978957312.jpg",
+    "label": 1
+  },
+  {
+    "id": 140,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978948522.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951527.jpg",
+    "label": 0
+  },
+  {
+    "id": 141,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979036395.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978955914.jpg",
+    "label": 0
+  },
+  {
+    "id": 142,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957069.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979039700.jpg",
+    "label": 1
+  },
+  {
+    "id": 143,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978961758.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777558081.jpg",
+    "label": 0
+  },
+  {
+    "id": 144,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978957718.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979039773.jpg",
+    "label": 1
+  },
+  {
+    "id": 145,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956662.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624053237.jpg",
+    "label": 1
+  },
+  {
+    "id": 146,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956330.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979037693.jpg",
+    "label": 0
+  },
+  {
+    "id": 147,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_633529872624070711.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956160.jpg",
+    "label": 0
+  },
+  {
+    "id": 148,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037073.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979039885.jpg",
+    "label": 1
+  },
+  {
+    "id": 149,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956697.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978947989.png",
+    "label": 1
+  },
+  {
+    "id": 150,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_633529872624068924.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539563.jpg",
+    "label": 0
+  },
+  {
+    "id": 151,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263341.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978947459.jpg",
+    "label": 0
+  },
+  {
+    "id": 152,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978953861.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_633529872624053294.jpg",
+    "label": 0
+  },
+  {
+    "id": 153,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777500442.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978965098.jpg",
+    "label": 1
+  },
+  {
+    "id": 154,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978945598.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979036483.jpg",
+    "label": 1
+  },
+  {
+    "id": 155,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957725.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978957718.jpg",
+    "label": 0
+  },
+  {
+    "id": 156,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956855.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095979037635.jpg",
+    "label": 0
+  },
+  {
+    "id": 157,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\IMG_0624.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037070.jpg",
+    "label": 0
+  },
+  {
+    "id": 158,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979039583.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037617.jpg",
+    "label": 0
+  },
+  {
+    "id": 159,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956562.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965682.jpg",
+    "label": 1
+  },
+  {
+    "id": 160,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037462.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956499.jpg",
+    "label": 0
+  },
+  {
+    "id": 161,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978946196.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978942533.jpg",
+    "label": 0
+  },
+  {
+    "id": 162,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095979037586.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978958261.jpg",
+    "label": 1
+  },
+  {
+    "id": 163,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978957581.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978942522.jpg",
+    "label": 0
+  },
+  {
+    "id": 164,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978946177.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978954131.jpg",
+    "label": 1
+  },
+  {
+    "id": 165,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956277.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979037181.jpg",
+    "label": 0
+  },
+  {
+    "id": 166,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978958320.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945143_5717953251845286519.jpg",
+    "label": 0
+  },
+  {
+    "id": 167,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978947840.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956737.jpg",
+    "label": 1
+  },
+  {
+    "id": 168,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_633529872624073864.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777500510.jpg",
+    "label": 0
+  },
+  {
+    "id": 169,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\IMG_0602.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945450.jpg",
+    "label": 0
+  },
+  {
+    "id": 170,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956452.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_633529872624070711.jpg",
+    "label": 0
+  },
+  {
+    "id": 171,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978964202.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957394.jpg",
+    "label": 1
+  },
+  {
+    "id": 172,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624073949.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978957854.jpg",
+    "label": 0
+  },
+  {
+    "id": 173,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957210.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978956433.jpg",
+    "label": 0
+  },
+  {
+    "id": 174,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_633529872624009354.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624053945.jpg",
+    "label": 0
+  },
+  {
+    "id": 175,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978953884.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978946175.jpg",
+    "label": 0
+  },
+  {
+    "id": 176,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978951480.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978965855.jpg",
+    "label": 1
+  },
+  {
+    "id": 177,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956947.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095979036409.jpg",
+    "label": 1
+  },
+  {
+    "id": 178,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624056078.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978963014.jpg",
+    "label": 0
+  },
+  {
+    "id": 179,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957925.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951392.png",
+    "label": 0
+  },
+  {
+    "id": 180,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777499593.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978950068.jpg",
+    "label": 1
+  },
+  {
+    "id": 181,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_633529872624008990.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_633529872624068861.jpg",
+    "label": 1
+  },
+  {
+    "id": 182,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956946.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978953931.jpg",
+    "label": 0
+  },
+  {
+    "id": 183,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956160.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\IMG_0625.JPG",
+    "label": 0
+  },
+  {
+    "id": 184,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965874.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957564.jpg",
+    "label": 1
+  },
+  {
+    "id": 185,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956900.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956157.jpg",
+    "label": 0
+  },
+  {
+    "id": 186,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978955985.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951463.jpg",
+    "label": 1
+  },
+  {
+    "id": 187,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978950686.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951484.jpg",
+    "label": 1
+  },
+  {
+    "id": 188,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978962954.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978965008.jpg",
+    "label": 1
+  },
+  {
+    "id": 189,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957497.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965707.jpg",
+    "label": 1
+  },
+  {
+    "id": 190,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978963114.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\IMG_0643.JPG",
+    "label": 0
+  },
+  {
+    "id": 191,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624083465.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978964060.jpg",
+    "label": 1
+  },
+  {
+    "id": 192,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978957853.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965136.jpg",
+    "label": 0
+  },
+  {
+    "id": 193,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978950114.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979037181.jpg",
+    "label": 1
+  },
+  {
+    "id": 194,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978958122.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624068876.jpg",
+    "label": 1
+  },
+  {
+    "id": 195,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956115.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978945280.jpg",
+    "label": 0
+  },
+  {
+    "id": 196,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978963892.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978966011.jpg",
+    "label": 0
+  },
+  {
+    "id": 197,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978954092.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539167.jpg",
+    "label": 1
+  },
+  {
+    "id": 198,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539722.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945077.jpg",
+    "label": 0
+  },
+  {
+    "id": 199,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978953882.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978951494.jpg",
+    "label": 0
+  },
+  {
+    "id": 200,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777500559.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558819.jpg",
+    "label": 1
+  },
+  {
+    "id": 201,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979037676.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957433.jpg",
+    "label": 1
+  },
+  {
+    "id": 202,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957276.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978951355.jpg",
+    "label": 0
+  },
+  {
+    "id": 203,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978964086.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979034216.jpg",
+    "label": 1
+  },
+  {
+    "id": 204,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957032.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978963126.jpg",
+    "label": 1
+  },
+  {
+    "id": 205,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_873065077777499446.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0700.JPG",
+    "label": 1
+  },
+  {
+    "id": 206,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624073949.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978965750.jpg",
+    "label": 1
+  },
+  {
+    "id": 207,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978961653.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\IMG_0615.JPG",
+    "label": 1
+  },
+  {
+    "id": 208,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978972579.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0610.JPG",
+    "label": 0
+  },
+  {
+    "id": 209,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978965754.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978956129.jpg",
+    "label": 1
+  },
+  {
+    "id": 210,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_633529872624053478.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957520.jpg",
+    "label": 1
+  },
+  {
+    "id": 211,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0679.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979039738.jpg",
+    "label": 0
+  },
+  {
+    "id": 212,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978945598.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945284.jpg",
+    "label": 0
+  },
+  {
+    "id": 213,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777500553.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979039591.jpg",
+    "label": 0
+  },
+  {
+    "id": 214,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978948531.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978972368.jpg",
+    "label": 1
+  },
+  {
+    "id": 215,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_873065077777539290.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036905.jpg",
+    "label": 1
+  },
+  {
+    "id": 216,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978961826.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965828.jpg",
+    "label": 1
+  },
+  {
+    "id": 217,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957477.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_873065077777558144.jpg",
+    "label": 1
+  },
+  {
+    "id": 218,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956474.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978954362.jpg",
+    "label": 1
+  },
+  {
+    "id": 219,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095979037621.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978966023.jpg",
+    "label": 0
+  },
+  {
+    "id": 220,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978962935.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956362.jpg",
+    "label": 0
+  },
+  {
+    "id": 221,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956847.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945076.jpg",
+    "label": 1
+  },
+  {
+    "id": 222,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979036444.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956681.jpg",
+    "label": 0
+  },
+  {
+    "id": 223,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979039869.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978957567.jpg",
+    "label": 0
+  },
+  {
+    "id": 224,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979038152.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956833.png",
+    "label": 0
+  },
+  {
+    "id": 225,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978950817.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978972368.jpg",
+    "label": 1
+  },
+  {
+    "id": 226,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978965355.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978954247.jpg",
+    "label": 1
+  },
+  {
+    "id": 227,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0687.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978948776.jpg",
+    "label": 0
+  },
+  {
+    "id": 228,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978964142.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957049.jpg",
+    "label": 0
+  },
+  {
+    "id": 229,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624068876.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978954462.jpg",
+    "label": 0
+  },
+  {
+    "id": 230,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951487.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957642.jpg",
+    "label": 0
+  },
+  {
+    "id": 231,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978954416.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978950686.jpg",
+    "label": 1
+  },
+  {
+    "id": 232,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978961827.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956952.jpg",
+    "label": 0
+  },
+  {
+    "id": 233,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956708.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037464.jpg",
+    "label": 0
+  },
+  {
+    "id": 234,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978945344.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956160.jpg",
+    "label": 1
+  },
+  {
+    "id": 235,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036905.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036941.jpg",
+    "label": 1
+  },
+  {
+    "id": 236,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979038172.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978961741.jpg",
+    "label": 1
+  },
+  {
+    "id": 237,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095979036449.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956936.jpg",
+    "label": 1
+  },
+  {
+    "id": 238,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978957835_5717953251845299211.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978954517.jpg",
+    "label": 1
+  },
+  {
+    "id": 239,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979036397.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_633529872624084302.jpg",
+    "label": 1
+  },
+  {
+    "id": 240,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_873065077777539435.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\IMG_0637.JPG",
+    "label": 0
+  },
+  {
+    "id": 241,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_633529872624068886.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624084274.jpg",
+    "label": 0
+  },
+  {
+    "id": 242,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956164.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945262.jpg",
+    "label": 0
+  },
+  {
+    "id": 243,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624073949.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978957192.jpg",
+    "label": 1
+  },
+  {
+    "id": 244,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951445.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978951398.jpg",
+    "label": 0
+  },
+  {
+    "id": 245,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979036398.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979037564.jpg",
+    "label": 1
+  },
+  {
+    "id": 246,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978954253.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945143_5717953251845286519.jpg",
+    "label": 0
+  },
+  {
+    "id": 247,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095979037586.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978963196.jpg",
+    "label": 1
+  },
+  {
+    "id": 248,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978963899.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951490.jpg",
+    "label": 0
+  },
+  {
+    "id": 249,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978962490.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979037187.jpg",
+    "label": 1
+  },
+  {
+    "id": 250,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956462.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956984.jpg",
+    "label": 0
+  },
+  {
+    "id": 251,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978953911.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956466.jpg",
+    "label": 1
+  },
+  {
+    "id": 252,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957174.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558810.jpg",
+    "label": 0
+  },
+  {
+    "id": 253,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\IMG_0604.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957785.jpg",
+    "label": 1
+  },
+  {
+    "id": 254,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979037496.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\IMG_0571.JPG",
+    "label": 1
+  },
+  {
+    "id": 255,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624083455.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978946399.jpg",
+    "label": 0
+  },
+  {
+    "id": 256,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956181.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965854.jpg",
+    "label": 1
+  },
+  {
+    "id": 257,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956369.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_873065077777499477.jpg",
+    "label": 0
+  },
+  {
+    "id": 258,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978965355.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979039558.jpg",
+    "label": 0
+  },
+  {
+    "id": 259,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0566.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_633529872624009039.jpg",
+    "label": 0
+  },
+  {
+    "id": 260,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978965813.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\IMG_0631.JPG",
+    "label": 0
+  },
+  {
+    "id": 261,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978953841.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978965983.jpg",
+    "label": 0
+  },
+  {
+    "id": 262,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263394.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956224.jpg",
+    "label": 1
+  },
+  {
+    "id": 263,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956785.png",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978954171.jpg",
+    "label": 0
+  },
+  {
+    "id": 264,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978955881.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978957957.jpg",
+    "label": 0
+  },
+  {
+    "id": 265,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956812.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095979036449.jpg",
+    "label": 1
+  },
+  {
+    "id": 266,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978965335.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0670.JPG",
+    "label": 1
+  },
+  {
+    "id": 267,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956451.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978965765.jpg",
+    "label": 1
+  },
+  {
+    "id": 268,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978973655.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951481.jpg",
+    "label": 0
+  },
+  {
+    "id": 269,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979039823.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978972579.jpg",
+    "label": 1
+  },
+  {
+    "id": 270,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978956376.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979037284.jpg",
+    "label": 0
+  },
+  {
+    "id": 271,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978954105.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978947954.jpg",
+    "label": 1
+  },
+  {
+    "id": 272,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957121.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978945364.jpg",
+    "label": 0
+  },
+  {
+    "id": 273,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624053233.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624053280.jpg",
+    "label": 1
+  },
+  {
+    "id": 274,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978957082.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956562.jpg",
+    "label": 0
+  },
+  {
+    "id": 275,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978954674.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263308.jpg",
+    "label": 1
+  },
+  {
+    "id": 276,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956529.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_873065077777539226.jpg",
+    "label": 1
+  },
+  {
+    "id": 277,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957356.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956005.jpg",
+    "label": 0
+  },
+  {
+    "id": 278,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978947882.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777500454.jpg",
+    "label": 1
+  },
+  {
+    "id": 279,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978957939.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624070920.jpg",
+    "label": 1
+  },
+  {
+    "id": 280,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978945497.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978957437.jpg",
+    "label": 0
+  },
+  {
+    "id": 281,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_633529872624056106.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\IMG_0637.JPG",
+    "label": 0
+  },
+  {
+    "id": 282,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978965876.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978947471.jpg",
+    "label": 1
+  },
+  {
+    "id": 283,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095979037558.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263329.jpg",
+    "label": 1
+  },
+  {
+    "id": 284,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978961817.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978954274.jpg",
+    "label": 0
+  },
+  {
+    "id": 285,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_633529872624052805.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_873065077777499823.jpg",
+    "label": 1
+  },
+  {
+    "id": 286,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956996.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_633529872624073818.jpg",
+    "label": 1
+  },
+  {
+    "id": 287,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978972579.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_633529872624053229.jpg",
+    "label": 0
+  },
+  {
+    "id": 288,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624053284.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624069013.jpg",
+    "label": 0
+  },
+  {
+    "id": 289,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978965970.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956904.png",
+    "label": 0
+  },
+  {
+    "id": 290,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956121.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956462.jpg",
+    "label": 0
+  },
+  {
+    "id": 291,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979037149.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956385.jpg",
+    "label": 0
+  },
+  {
+    "id": 292,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965845.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978954127.jpg",
+    "label": 1
+  },
+  {
+    "id": 293,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978962869.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777499527.jpg",
+    "label": 0
+  },
+  {
+    "id": 294,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978973638.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036934.jpg",
+    "label": 1
+  },
+  {
+    "id": 295,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777538896.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263332.jpg",
+    "label": 0
+  },
+  {
+    "id": 296,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957194.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978962814.jpg",
+    "label": 1
+  },
+  {
+    "id": 297,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_873065077777558094.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978951301.jpg",
+    "label": 0
+  },
+  {
+    "id": 298,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978955933.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978945341.jpg",
+    "label": 0
+  },
+  {
+    "id": 299,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957561.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956595.jpg",
+    "label": 1
+  },
+  {
+    "id": 300,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979039731.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979039773.jpg",
+    "label": 0
+  },
+  {
+    "id": 301,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978957188.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979037521.jpg",
+    "label": 1
+  },
+  {
+    "id": 302,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978948018.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956519.jpg",
+    "label": 0
+  },
+  {
+    "id": 303,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956488.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978946013.jpg",
+    "label": 1
+  },
+  {
+    "id": 304,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956516.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777558081.jpg",
+    "label": 1
+  },
+  {
+    "id": 305,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777538810.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978958122.jpg",
+    "label": 0
+  },
+  {
+    "id": 306,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978963902.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978953818.jpg",
+    "label": 1
+  },
+  {
+    "id": 307,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777538908.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777538816.jpg",
+    "label": 1
+  },
+  {
+    "id": 308,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978954239.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978964546.jpg",
+    "label": 0
+  },
+  {
+    "id": 309,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978963880.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956082.jpg",
+    "label": 1
+  },
+  {
+    "id": 310,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978966103.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957831.jpg",
+    "label": 1
+  },
+  {
+    "id": 311,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_633529872624009061.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978957567.jpg",
+    "label": 1
+  },
+  {
+    "id": 312,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945981.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\IMG_0711.JPG",
+    "label": 1
+  },
+  {
+    "id": 313,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539694.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978972649.jpg",
+    "label": 0
+  },
+  {
+    "id": 314,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951482.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_873065077777500591.jpg",
+    "label": 1
+  },
+  {
+    "id": 315,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978963208.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_633529872624008990.jpg",
+    "label": 1
+  },
+  {
+    "id": 316,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957121.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956701.jpg",
+    "label": 1
+  },
+  {
+    "id": 317,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951379.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956415.jpg",
+    "label": 0
+  },
+  {
+    "id": 318,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558833.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951348.jpg",
+    "label": 1
+  },
+  {
+    "id": 319,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956945.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978964706.jpg",
+    "label": 0
+  },
+  {
+    "id": 320,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979037187.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978965008.jpg",
+    "label": 1
+  },
+  {
+    "id": 321,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978958122.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978954118.jpg",
+    "label": 0
+  },
+  {
+    "id": 322,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979036372.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539260.jpg",
+    "label": 0
+  },
+  {
+    "id": 323,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945162.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978956398.jpg",
+    "label": 0
+  },
+  {
+    "id": 324,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978942533.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777558066.jpg",
+    "label": 0
+  },
+  {
+    "id": 325,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956154.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978945592.jpg",
+    "label": 0
+  },
+  {
+    "id": 326,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978958037.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978954194.jpg",
+    "label": 1
+  },
+  {
+    "id": 327,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539650.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558122.jpg",
+    "label": 1
+  },
+  {
+    "id": 328,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263308.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263355.jpg",
+    "label": 1
+  },
+  {
+    "id": 329,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957074.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978942548.jpg",
+    "label": 0
+  },
+  {
+    "id": 330,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978962583.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956627.jpg",
+    "label": 0
+  },
+  {
+    "id": 331,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979039600.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095979039571.jpg",
+    "label": 0
+  },
+  {
+    "id": 332,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539695.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978946161.jpg",
+    "label": 0
+  },
+  {
+    "id": 333,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957520.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978950821.jpg",
+    "label": 0
+  },
+  {
+    "id": 334,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978953816.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951463.jpg",
+    "label": 1
+  },
+  {
+    "id": 335,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978948377.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978958180.jpg",
+    "label": 1
+  },
+  {
+    "id": 336,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956862.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777499429.jpg",
+    "label": 1
+  },
+  {
+    "id": 337,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978957106.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978951421.jpg",
+    "label": 0
+  },
+  {
+    "id": 338,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978945507.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978945585.jpg",
+    "label": 0
+  },
+  {
+    "id": 339,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539754.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539170.jpg",
+    "label": 1
+  },
+  {
+    "id": 340,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956090.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978965087.jpg",
+    "label": 0
+  },
+  {
+    "id": 341,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978957927.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978945493.jpg",
+    "label": 0
+  },
+  {
+    "id": 342,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_873065077777500427.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_633529872624070703.jpg",
+    "label": 0
+  },
+  {
+    "id": 343,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_633529872624050666.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_873065077777539283.jpg",
+    "label": 1
+  },
+  {
+    "id": 344,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978957620.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539593.jpg",
+    "label": 0
+  },
+  {
+    "id": 345,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095979037521.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_633529872624084280.jpg",
+    "label": 0
+  },
+  {
+    "id": 346,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978958390.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1095008096913263402.jpg",
+    "label": 1
+  },
+  {
+    "id": 347,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978958263.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539722.jpg",
+    "label": 0
+  },
+  {
+    "id": 348,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_633529872624084315.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978964595.jpg",
+    "label": 0
+  },
+  {
+    "id": 349,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624053462.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978953931.jpg",
+    "label": 0
+  },
+  {
+    "id": 350,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978964994.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_873065077777539767.jpg",
+    "label": 0
+  },
+  {
+    "id": 351,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979038152.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978948531.jpg",
+    "label": 0
+  },
+  {
+    "id": 352,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956956.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978954212.jpg",
+    "label": 1
+  },
+  {
+    "id": 353,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978956297.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777499545.jpg",
+    "label": 0
+  },
+  {
+    "id": 354,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_873065077777499533.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978948408.jpg",
+    "label": 1
+  },
+  {
+    "id": 355,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\IMG_0627.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978956686.jpg",
+    "label": 0
+  },
+  {
+    "id": 356,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978963108.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_873065077777558063.jpg",
+    "label": 1
+  },
+  {
+    "id": 357,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956343.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978957046.jpg",
+    "label": 1
+  },
+  {
+    "id": 358,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978958114.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978965327.jpg",
+    "label": 1
+  },
+  {
+    "id": 359,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978965671.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978951468.jpg",
+    "label": 1
+  },
+  {
+    "id": 360,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978957135.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978965293.jpg",
+    "label": 1
+  },
+  {
+    "id": 361,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978948259.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_633529872624068924.jpg",
+    "label": 1
+  },
+  {
+    "id": 362,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956110.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_873065077777539310.jpg",
+    "label": 1
+  },
+  {
+    "id": 363,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978957620.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\IMG_0699.JPG",
+    "label": 0
+  },
+  {
+    "id": 364,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978961829.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956710.jpg",
+    "label": 0
+  },
+  {
+    "id": 365,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978945300.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978963063.png",
+    "label": 1
+  },
+  {
+    "id": 366,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978942533.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978950821.jpg",
+    "label": 1
+  },
+  {
+    "id": 367,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956502.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978953847.jpg",
+    "label": 0
+  },
+  {
+    "id": 368,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037081.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036898.jpg",
+    "label": 1
+  },
+  {
+    "id": 369,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0579.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978957556.jpg",
+    "label": 0
+  },
+  {
+    "id": 370,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978964109.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956608.jpg",
+    "label": 1
+  },
+  {
+    "id": 371,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777539170.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624070705.jpg",
+    "label": 0
+  },
+  {
+    "id": 372,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956855.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978958120.jpg",
+    "label": 1
+  },
+  {
+    "id": 373,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\IMG_0616.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_873065077777558183.jpg",
+    "label": 1
+  },
+  {
+    "id": 374,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036910.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036898.jpg",
+    "label": 1
+  },
+  {
+    "id": 375,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_873065077777539604.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978961647.jpg",
+    "label": 0
+  },
+  {
+    "id": 376,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951463.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095979037156.jpg",
+    "label": 0
+  },
+  {
+    "id": 377,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978950723.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095978956555.jpg",
+    "label": 0
+  },
+  {
+    "id": 378,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956832.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956872.jpg",
+    "label": 0
+  },
+  {
+    "id": 379,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979036924.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956709.jpg",
+    "label": 0
+  },
+  {
+    "id": 380,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\IMG_0681.JPG",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_1\\pinterest_1106267095979037067.jpg",
+    "label": 0
+  },
+  {
+    "id": 381,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095979037573.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956135.jpg",
+    "label": 1
+  },
+  {
+    "id": 382,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956424.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978956681.jpg",
+    "label": 0
+  },
+  {
+    "id": 383,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_633529872624053237.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_8\\pinterest_1106267095978958251.jpg",
+    "label": 1
+  },
+  {
+    "id": 384,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_0\\pinterest_1106267095978956955.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\IMG_0605.JPG",
+    "label": 0
+  },
+  {
+    "id": 385,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978962493.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978962504.jpg",
+    "label": 1
+  },
+  {
+    "id": 386,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978956889.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978946175.jpg",
+    "label": 1
+  },
+  {
+    "id": 387,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978963450.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_1106267095978951455.jpg",
+    "label": 1
+  },
+  {
+    "id": 388,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_633529872624083452.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_633529872624083493.jpg",
+    "label": 0
+  },
+  {
+    "id": 389,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978953829.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_873065077777558155.jpg",
+    "label": 0
+  },
+  {
+    "id": 390,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978965290.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_873065077777499547.jpg",
+    "label": 0
+  },
+  {
+    "id": 391,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978945065.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095978965750.jpg",
+    "label": 1
+  },
+  {
+    "id": 392,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978953826.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_4\\pinterest_1106267095978951486.jpg",
+    "label": 1
+  },
+  {
+    "id": 393,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956289.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956542.jpg",
+    "label": 0
+  },
+  {
+    "id": 394,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095979036449.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\IMG_0555.JPG",
+    "label": 1
+  },
+  {
+    "id": 395,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_3\\pinterest_633529872624053229.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978964243.jpg",
+    "label": 0
+  },
+  {
+    "id": 396,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956339.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978946141.jpg",
+    "label": 0
+  },
+  {
+    "id": 397,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_7\\pinterest_1106267095978956421.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_6\\pinterest_1106267095978956426.jpg",
+    "label": 0
+  },
+  {
+    "id": 398,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_1106267095978947937.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_2\\pinterest_633529872624056106.jpg",
+    "label": 1
+  },
+  {
+    "id": 399,
+    "img1": "C:\\try_angle\\data\\clustered_images\\cluster_5\\pinterest_1106267095978956539.jpg",
+    "img2": "C:\\try_angle\\data\\clustered_images\\cluster_9\\pinterest_1106267095979037144.jpg",
+    "label": 0
+  }
+]

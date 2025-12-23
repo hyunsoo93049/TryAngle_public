@@ -1,0 +1,155 @@
+# =========================================
+# 🚫 TryAngle — .gitignore (Updated 2025-11-15)
+# =========================================
+
+# ---- 1) Python / Environment ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+env/
+venv/
+TA/
+.Python
+.env
+
+# ---- 2) OS / Editor temp ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- 2.1) External projects (archived) ----
+external_projects/
+
+# ---- 3) Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- 4) Logs & Temp ----
+*.log
+*.tmp
+*.bak
+*.cache
+*.old
+*.orig
+
+# ============================================================
+# 🚨 중요: 업로드 금지 대용량 파일들
+# ============================================================
+
+# ---- (A) ML Model weight files (절대 금지!) ----
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.engine
+*.ckpt
+*.h5
+*.pb
+
+# ---- (B) AI Feature / Embedding Files ----
+*.npz
+*.npy
+*.pickle
+*.pkl
+*.parquet
+
+# ---- (C) 대용량 데이터 폴더 전체 차단 ----
+# 학습 데이터, 클러스터 이미지, 특징 파일
+data/clustered_images/
+data/original_images/
+data/train/
+data/train_images/
+data/validation/
+features/
+feature_models/
+models/
+weights/
+checkpoints/
+clusters/
+classified_full_v4/
+clustering/
+
+# ---- (D) 자동 생성 결과물 폴더 ----
+cluster_outputs/
+cluster_samples_visual/
+cluster_previews_openclip/
+visual_output/
+results/
+output/
+outputs/
+preview/
+
+# ---- (E) 영상 파일 ----
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# ---- (F) 압축 파일 ----
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# ---- (G) 기타 제외 파일 ----
+*.pdf
+.claude/
+
+# ============================================================
+# 🟢 예외: Git에 올릴 파일들
+# ============================================================
+
+# 문서 및 설정 파일은 허용
+!**/*.md
+!**/*.yaml
+!**/*.yml
+!**/*.json
+!**/*.txt
+!README.md
+!LICENSE
+!requirements.txt
+!.gitignore
+!.gitattributes
+
+# 코드 파일은 모두 허용
+!src/
+!src/**/*.py
+!src/**/*.ipynb
+
+# 예제/문서용 작은 이미지만 허용 (test_images 폴더)
+!data/test_images/
+!data/test_images/*.jpg
+!data/test_images/*.png
+
+# 특정 문서 이미지 허용 (예: README용 스크린샷)
+!docs/
+!docs/**/*.png
+!docs/**/*.jpg
+
+# ============================================================
+# 📝 주의사항
+# ============================================================
+#
+# ✅ Git에 올라가는 것:
+#    - 모든 Python 코드 (*.py)
+#    - 노트북 (*.ipynb)
+#    - 문서 (*.md)
+#    - 설정 파일 (*.yaml, *.json)
+#    - 소량 테스트 이미지 (data/test_images/ 안에만)
+#
+# ❌ Git에 안 올라가는 것:
+#    - 모델 파일 (*.pt, *.pth 등)
+#    - 특징 파일 (*.npz, *.parquet)
+#    - 학습 데이터 (data/clustered_images/, features/ 등)
+#    - 자동 생성 결과물
+#
+# 💡 큰 파일 공유:
+#    - Git LFS 또는 Google Drive 사용 권장
+#
+# ============================================================

@@ -1,0 +1,116 @@
+{
+  "cluster_id": 0,
+  "size": 288,
+  "timestamp": "2025-11-13T14:59:31.596775",
+  "model_analyses": {
+    "clip": {
+      "model": "CLIP (ViT-B/32)",
+      "purpose": "전체적 감성/분위기 인식",
+      "dimensions": 512,
+      "cluster_cohesion": 41.50968257548107,
+      "top_activated_dims": [
+        92,
+        389,
+        45,
+        16,
+        39
+      ],
+      "top_values": [
+        -0.6048634648323059,
+        0.1265292465686798,
+        0.10224800556898117,
+        -0.09315583109855652,
+        0.09146085381507874
+      ],
+      "interpretation": "단순하고 명확한 구성"
+    },
+    "openclip": {
+      "model": "OpenCLIP (ViT-B/32, LAION-2B)",
+      "purpose": "의미적 개념 이해",
+      "dimensions": 512,
+      "cluster_cohesion": 35.386144801078274,
+      "top_activated_dims": [
+        152,
+        307,
+        1,
+        431,
+        348
+      ],
+      "top_values": [
+        0.29294586181640625,
+        -0.29252327813042533,
+        0.13575023743841383,
+        0.11841250128216213,
+        -0.11452991598182255
+      ],
+      "interpretation": "일반적이고 보편적인 특징"
+    },
+    "dino": {
+      "model": "DINOv2 (ViT-S/14)",
+      "purpose": "구조적 패턴/구도 인식",
+      "dimensions": 384,
+      "spatial_consistency": 2296.3814920676245,
+      "cluster_cohesion": 2296.3814920676245,
+      "top_activated_dims": [
+        278,
+        179,
+        68,
+        129,
+        79
+      ],
+      "top_values": [
+        -0.0019330712966620922,
+        0.0015156660228967667,
+        0.0014820067444816232,
+        0.0014568939805030823,
+        -0.0013531827135011554
+      ],
+      "interpretation": "매우 일관된 구도/레이아웃 (유사한 프레이밍)"
+    },
+    "midas": {
+      "model": "MiDaS (DPT-Hybrid)",
+      "purpose": "깊이/공간 구조 인식",
+      "avg_depth": 1079.7359504699707,
+      "depth_variance": 189.48591331000677,
+      "avg_complexity": 703.9716361893547,
+      "depth_class": "실외/원거리",
+      "space_type": "개방된 공간",
+      "background_complexity": "중간",
+      "depth_consistency": 0.0052774371310996705,
+      "interpretation": "개방된 공간, 중간 배경 복잡도"
+    }
+  },
+  "visual_analyses": {
+    "color": {
+      "tone": "중간톤",
+      "brightness": "보통",
+      "saturation": "보통",
+      "contrast": "높음",
+      "edge_density": "복잡",
+      "avg_hue": 45.5591030080446,
+      "avg_sat": 67.65176920670825,
+      "avg_val": 121.70787125954726,
+      "avg_temp": 0.06857180823811121,
+      "avg_contrast": 60.3887235090761,
+      "avg_edge_density": 32.44509508512429
+    },
+    "pose": {
+      "pose_type": "전신",
+      "position_vertical": "중앙",
+      "position_horizontal": "중앙",
+      "avg_vertical_pos": 0.5964064843750113,
+      "avg_horizontal_pos": 0.4674857899477234,
+      "distribution": {
+        "전신": 24,
+        "반신": 6
+      }
+    }
+  },
+  "representative_images": [
+    "IMG_0606.JPG",
+    "IMG_0622.JPG",
+    "IMG_0625.JPG",
+    "IMG_0635.JPG",
+    "IMG_0637.JPG"
+  ]
+}

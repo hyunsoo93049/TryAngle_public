@@ -1,0 +1,14 @@
+{
+  "num_clusters": 10,
+  "total_images": 2687,
+  "num_positive_per_cluster": 100,
+  "num_negative_per_cluster": 100,
+  "train_ratio": 0.8,
+  "seed": 42,
+  "train_size": 1600,
+  "val_size": 400,
+  "train_positive": 806,
+  "train_negative": 794,
+  "val_positive": 194,
+  "val_negative": 206
+}
